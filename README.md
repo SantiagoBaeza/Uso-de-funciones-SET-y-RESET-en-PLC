@@ -1,4 +1,4 @@
-[⬅️ Volver a "Proyectos con PLC"](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
+[⬅️ Volver a "Conceptos de Ladder"](https://github.com/SantiagoBaeza/Conceptos-importantes-de-Ladder/tree/main)
 
 # Uso de funciones SET y RESET en PLC – Enclavamiento de motores
 
