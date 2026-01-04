@@ -9,7 +9,7 @@ A diferencia de las bobinas normales, las bobinas de tipo SET mantienen la salid
 
 ## Contexto
 
-En la clase anterior se trabajó con un error típico: la repetición de bobinas de salida en distintos segmentos.  
+En el [repositorio anterior](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/tree/main) a este se trabajó con un error típico: la repetición de bobinas de salida en distintos segmentos.  
 En este nuevo ejercicio se retoma ese mismo esquema, pero se reemplaza la lógica por bobinas de tipo **SET** y **RESET**, lo que permite repetir la misma salida en distintos segmentos sin que el PLC genere conflictos.  
 Se añadieron dos nuevas variables (`set button - M0.2` y `reset button - M0.3`) para controlar el motor mediante las instrucciones de SET y RESET.
 
