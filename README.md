@@ -18,22 +18,22 @@ Se añadieron dos nuevas variables (`set button - M0.2` y `reset button - M0.3`)
 ## Capturas
 
 - **Captura 01**: Inicio de la simulación, con el circuito original y la bobina `motor3` en su forma normal.  
-  ![Inicio de la simulación](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/01%20inicio%20de%20la%20simulacion.jpg)
+  ![Inicio de la simulación](https://github.com/SantiagoBaeza/Uso-de-funciones-SET-y-RESET-en-PLC/blob/main/01%20inicio%20de%20la%20simulacion.jpg)
 
 - **Captura 02**: Forzado de enclavamiento usando instrucciones SET y RESET.  
-  ![Forzado de enclavamiento](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/02%20forzado%20de%20enclavamiento%20usando%20set%20y%20reset.jpg)
+  ![Forzado de enclavamiento](https://github.com/SantiagoBaeza/Uso-de-funciones-SET-y-RESET-en-PLC/blob/main/02%20forzado%20de%20enclavamiento%20usando%20set%20y%20reset.jpg)
 
 - **Captura 03**: Circuito con botón Start presionado, `motor3` encendido en ambos segmentos.  
-  ![Botón Start presionado](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/03%20circuito%20con%20boton%20start%20presionado.jpg)
+  ![Botón Start presionado](https://github.com/SantiagoBaeza/Uso-de-funciones-SET-y-RESET-en-PLC/blob/main/03%20circuito%20con%20boton%20start%20presionado%20.jpg)
 
 - **Captura 04**: Botón Start sin presionar (forzado a cero), `motor3` permanece enclavado.  
-  ![Motor3 enclavado](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/04%20boton%20start%20sin%20presionar%20(forzado%20a%20cero),%20motor3%20enclavado%20en%20ambos%20segmentos%20(2%20y%203).jpg)
+  ![Motor3 enclavado](https://github.com/SantiagoBaeza/Uso-de-funciones-SET-y-RESET-en-PLC/blob/main/04%20boton%20start%20sin%20presionar%20(forzado%20a%20cero)%2C%20motor3%20enclavado%20en%20ambos%20segmentos%20(2%20y%203).jpg)
 
 - **Captura 05**: Pulso al botón Stop para apagar `motor3` en ambos segmentos.  
-  ![Pulso botón Stop](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/05%20pulso%20boton%20stop%20para%20apagar%20motor3%20en%20ambos%20segmentos.jpg)
+  ![Pulso botón Stop](https://github.com/SantiagoBaeza/Uso-de-funciones-SET-y-RESET-en-PLC/blob/main/05%20pulso%20boton%20stop%20para%20apagar%20motor3%20en%20ambos%20segmentos%20.jpg)
 
 - **Captura 06**: `motor3` apagado, fin del ciclo de control.  
-  ![Motor3 apagado](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/06%20motor3%20apagado.jpg)
+  ![Motor3 apagado](https://github.com/SantiagoBaeza/Uso-de-funciones-SET-y-RESET-en-PLC/blob/main/06%20motor3%20apagado%20.jpg)
   
 ---
 
